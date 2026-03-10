@@ -1,2 +1,11 @@
-# Lab3_Search_Algorithms
-Artificial Intelligence Lab 3 – Implementation of search algorithms including Topological Sorting (BFS), Connected Components using BFS, Depth First Search (DFS), and the Water Jug problem.
+# AI Lab 3 – Search Algorithms
+
+This repository contains implementations of Artificial Intelligence search algorithms:
+
+1. Topological Sorting using BFS
+2. Counting Connected Components using BFS
+3. Depth First Search (DFS)
+4. Water Jug Problem using DFS
+
+University: Iqra University  
+Course: Artificial Intelligence Lab
